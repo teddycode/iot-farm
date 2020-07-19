@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spingarr">
+        <item>温度</item>
+        <item>湿度</item>
+        <item>光强</item>
+        <item>气压</item>
+        <item>海拔</item>
+        <item>土壤</item>
+        <item>雨水</item>
+    </string-array>
+</resources>

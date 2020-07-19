@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">果园环境监测APP</string>
+    <string name="title_home">面板</string>
+    <string name="title_notifications">图表</string>
+</resources>
